@@ -16,7 +16,7 @@ __Author__ = "cdhigh <https://github.com/cdhigh>"
 from wsgiref.util import is_hop_by_hop
 import os, urllib, urllib2, socket, bottle
 
-ALLOW_KEYS = 'xzSlE'
+ALLOW_KEYS = 'ceJN%i9v'
 
 application = app = bottle.Bottle()
 
